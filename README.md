@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @eykyu-dev
-- 💞️ I’m looking to collaborate on react/express projects
-- 📫 reach me by email @ eykyudev@gmail.com !
-
-<!---
-eykyu-dev/eykyu-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi There! 😊
+I go by Ethan, and I'm a Full-Stack Web Developer. I love creating software, learning, and having fun creating designs. I'm naturally curious, quietly confident, and I make it a point to improve myself every single day.
+Please check out my work.
