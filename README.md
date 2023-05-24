@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @eykyu-dev
-- 👀 I’m interested in machine learning! 
 - 💞️ I’m looking to collaborate on react/express projects
 - 📫 reach me by email @ eykyudev@gmail.com !
 
